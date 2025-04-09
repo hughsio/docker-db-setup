@@ -1,4 +1,4 @@
-![UDC SEAS Banner](GITHUB-banner.png)
+![UDC SEAS Banner](/images/GITHUB-banner.png)
 
 # Setting Up MySQL with Docker and phpMyAdmin
 
